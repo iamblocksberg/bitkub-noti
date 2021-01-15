@@ -23,11 +23,11 @@
       "condition": [
         {
           "operator": ">=",
-          "amount": 1150000
+          "amount": 1140000
         },
         {
           "operator": "<=",
-          "amount": 1156000
+          "amount": 1145000
         }
       ]
     }
