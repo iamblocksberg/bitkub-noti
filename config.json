@@ -1,8 +1,8 @@
 {
   "notiRules": [
     {
-      symbol: "THB_BTC",
-      condition: [
+      "symbol": "THB_BTC",
+      "condition": [
         {
           "operator": ">=",
           "amount": 1200000
@@ -10,8 +10,8 @@
       ]
     },
     {
-      symbol: "THB_BTC",
-      condition: [
+      "symbol": "THB_BTC",
+      "condition": [
         {
           "operator": "<=",
           "amount": 1000000
@@ -19,8 +19,8 @@
       ]
     },
     {
-      symbol: "THB_BTC",
-      condition: [
+      "symbol": "THB_BTC",
+      "condition": [
         {
           "operator": ">=",
           "amount": 1150000
