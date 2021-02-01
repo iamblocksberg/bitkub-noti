@@ -1,6 +1,24 @@
 {
   "notiRules": [
     {
+      "symbol": "THB_XRP",
+      "condition": [
+        {
+          "operator": ">",
+          "amount": 22
+        }
+      ]
+    },
+    {
+      "symbol": "THB_XRP",
+      "condition": [
+        {
+          "operator": "<",
+          "amount": 21
+        }
+      ]
+    },
+    {
       "symbol": "THB_BTC",
       "condition": [
         {
